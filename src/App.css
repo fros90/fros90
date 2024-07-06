@@ -1,0 +1,8 @@
+.navbar{
+diplay: flex;
+
+}
+.li{
+    align: right;
+    gap: 5vh;
+}
